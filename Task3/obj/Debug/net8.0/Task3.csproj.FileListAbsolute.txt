@@ -1,0 +1,14 @@
+/Users/gevhakobyan/Desktop/Lesson 7/Task3/bin/Debug/net8.0/Task3
+/Users/gevhakobyan/Desktop/Lesson 7/Task3/bin/Debug/net8.0/Task3.deps.json
+/Users/gevhakobyan/Desktop/Lesson 7/Task3/bin/Debug/net8.0/Task3.runtimeconfig.json
+/Users/gevhakobyan/Desktop/Lesson 7/Task3/bin/Debug/net8.0/Task3.dll
+/Users/gevhakobyan/Desktop/Lesson 7/Task3/bin/Debug/net8.0/Task3.pdb
+/Users/gevhakobyan/Desktop/Lesson 7/Task3/obj/Debug/net8.0/Task3.GeneratedMSBuildEditorConfig.editorconfig
+/Users/gevhakobyan/Desktop/Lesson 7/Task3/obj/Debug/net8.0/Task3.AssemblyInfoInputs.cache
+/Users/gevhakobyan/Desktop/Lesson 7/Task3/obj/Debug/net8.0/Task3.AssemblyInfo.cs
+/Users/gevhakobyan/Desktop/Lesson 7/Task3/obj/Debug/net8.0/Task3.csproj.CoreCompileInputs.cache
+/Users/gevhakobyan/Desktop/Lesson 7/Task3/obj/Debug/net8.0/Task3.dll
+/Users/gevhakobyan/Desktop/Lesson 7/Task3/obj/Debug/net8.0/refint/Task3.dll
+/Users/gevhakobyan/Desktop/Lesson 7/Task3/obj/Debug/net8.0/Task3.pdb
+/Users/gevhakobyan/Desktop/Lesson 7/Task3/obj/Debug/net8.0/Task3.genruntimeconfig.cache
+/Users/gevhakobyan/Desktop/Lesson 7/Task3/obj/Debug/net8.0/ref/Task3.dll
